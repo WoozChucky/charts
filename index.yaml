@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   azure-pipelines-agent:
-    - created: 2024-01-07T23:13:20
+    - created: "2024-01-07T23:13:20.460335022Z"
       description: Azure Pipelines Agent is self-hosted agent that you can run in a container with Docker. The agent is pre-installed with Docker inside of it and .NET SDK 8.0.
       digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b9f1f422b9dcb8a7c8b559ca
       home: https://helm.sh/helm
@@ -11,4 +11,4 @@ entries:
       urls:
         - https://woozchucky.github.io/charts/azure-pipelines-agent-0.0.3-helm.tgz
       version: 0.0.3-helm
-generated: 2024-01-07T23:13:20
+generated: "2024-01-07T23:13:20.460335022Z"
